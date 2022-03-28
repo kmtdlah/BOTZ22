@@ -311,21 +311,6 @@ ${tz} Keep your distance
 ${tz} Stay away from the crowd
 ${tz} Restrict mobility
 ▬▭▬▭▬▭▬▭▬▭▬▭
-☞ *RULES* [ 5 ]
-${tz} This bot does not save media/photos you send
-${tz} Make the most of this bot
-${tz} Don,t spam features/command bots
-${tz} This bot is for entertainment purposes only, and *not to be eaten*
-${tz} This bot is just a bot, can,t talk/do excessive hall like a human
-▬▭▬▭▬▭▬▭▬▭▬▭
-☞ *HUKUMAN* [ 2 ]
-${tz} Owner berhak memberikan teguran hingga sanksi terhadap user yang melanggar peraturan di atas
-${tz} Melanggar peraturan di atas dapat mendapatkan sanksi seperti banned/block user
-▬▭▬▭▬▭▬▭▬▭▬▭
-☞ *PUNISHMENT* [ 2 ]
-${tz} Owner has the right to give warnings to sanctions against users who violate the rules above
-${tz} Violating the rules above can get sanctions such as banned/block user
-▬▭▬▭▬▭▬▭▬▭▬▭
 ☞ *THX•TO* [ 6 ]
 ${tz} *${ownername}*
 ${tz} *NAYLA [ OTHER ]*
