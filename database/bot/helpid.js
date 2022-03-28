@@ -11,9 +11,7 @@ ${tz} *${prefix}setbahasa* id
 ${tz} *${prefix}setlanguage* en
 ▬▭▬▭▬▭▬▭▬▭▬▭
 ☞ *INFO* [ 7 ]
-${tz} *${prefix}iklan*
 ${tz} *${prefix}sewa*
-${tz} *${prefix}scbot*
 ${tz} *${prefix}mygrub*
 ${tz} *${prefix}sticker*
 ${tz} *${prefix}owner*
@@ -304,24 +302,7 @@ ${tz} *${prefix}bantengmerah*
 Silahkan pilih audio 1-20
 Contohnya *${prefix}audio8*
 ▬▭▬▭▬▭▬▭▬▭▬▭
-☞ *TERAPKAN* [ 5M ]
-${tz} Memakai masker
-${tz} Mencuci tangan
-${tz} Menjaga jarak
-${tz} Menjauhi kerumunan
-${tz} Membatasi mobilitas
-▬▭▬▭▬▭▬▭▬▭▬▭
-☞ *PERATURAN* [ 5 ]
-${tz} Bot ini tidak menyimpan media/foto yang anda kirimkan
-${tz} Gunakan bot ini sebaik mungkin
-${tz} Jangan spam fitur/command bot
-${tz} Bot ini hanya untuk hiburan semata, dan *tidak untuk dimakan*
-${tz} Bot ini sekedar bot, tidak dapet berbicara/melakukan hall yang berlebihan seperti manusia
-▬▭▬▭▬▭▬▭▬▭▬▭
-☞ *HUKUMAN* [ 2 ]
-${tz} Owner berhak memberikan teguran hingga sanksi terhadap user yang melanggar peraturan di atas
-${tz} Melanggar peraturan di atas dapat mendapatkan sanksi seperti banned/block user
-▬▭▬▭▬▭▬▭▬▭▬▭
+
 ☞ *THX•TO* [ 6 ]
 ${tz} *${ownername}*
 ${tz} *NAYLA [ OTHER ]*
